@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T12:14:32.012Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="mlO2Nirf4_Wt_Tj35cLR" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T12:36:29.985Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xtP77fWIIAaQDkH-sbYP" version="13.8.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2423" dy="1694" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -256,11 +256,26 @@
             <mxPoint x="-1055" y="59" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eX8PY4nguDupMY9EcU6u-102" value="Partial Payment" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="eX8PY4nguDupMY9EcU6u-102" value="Payment" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1103" y="94" width="95" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="eX8PY4nguDupMY9EcU6u-103" value="Received" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1103" y="152" width="95" height="34" as="geometry" />
+        <mxCell id="eX8PY4nguDupMY9EcU6u-104" value="Download" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1103" y="162" width="95" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="eX8PY4nguDupMY9EcU6u-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1055.49" y="128" as="sourcePoint" />
+            <mxPoint x="-1055.99" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eX8PY4nguDupMY9EcU6u-108" value="Review" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1103" y="230" width="95" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="eX8PY4nguDupMY9EcU6u-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1055.49" y="196" as="sourcePoint" />
+            <mxPoint x="-1055.99" y="231" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
